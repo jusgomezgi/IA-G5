@@ -2,11 +2,11 @@
 [![Watch the video](https://raw.github.com/GabLeRoux/WebMole/master/ressources/WebMole_Youtube_Video.png)](https://www.youtube.com/watch?v=J6RqQ9qDDeU)
 
 
-Simulacion y Control de un Proceso en Reactor CSRT aplicando Tecnicas de IA
-IA-2018 UNALMED
-por medio de: MatLab y Graphlab,
+Simulacion y Control de un Proceso en Reactor CSRT aplicando Tecnicas de IA\n
+IA-2018 UNALMED\n
+por medio de: MatLab y Graphlab.\n\
 utilizando tecnicaas de: Aprendizaje de Maquinas,  Logica Fuzzy y Multiagentes.
-
+\n\n
 Primera Parte: (En Matlab):
   +Se ejecutan los archivos necesarios para la simulacion del sistema y se generan los datos para el aprendizaje de maquina.
 
