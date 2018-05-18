@@ -3,8 +3,8 @@
 
 
 Simulacion y Control de un Proceso en Reactor CSRT aplicando Tecnicas de IA\n
-IA-2018 UNALMED\n
-por medio de: MatLab y Graphlab.\n\
+IA-2018 UNALMED\
+por medio de: MatLab y Graphlab.\
 utilizando tecnicaas de: Aprendizaje de Maquinas,  Logica Fuzzy y Multiagentes.
 \n\n
 Primera Parte: (En Matlab):
